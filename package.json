@@ -6,7 +6,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alwinator/react-native-http-bridge-refurbished.git"
+    "url": "https://github.com/nguyenvanphituoc/react-native-http-bridge-refurbished.git"
   },
   "keywords": [
     "react-component",
@@ -20,9 +20,9 @@
   "author": "Alwin Schuster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Alwinator/react-native-http-bridge-refurbished/issues"
+    "url": "https://github.com/nguyenvanphituoc/react-native-http-bridge-refurbished/issues"
   },
-  "homepage": "https://github.com/Alwinator/react-native-http-bridge-refurbished#readme",
+  "homepage": "https://github.com/nguyenvanphituoc/react-native-http-bridge-refurbished#readme",
   "scripts": {
     "semantic-release": "semantic-release"
   },
